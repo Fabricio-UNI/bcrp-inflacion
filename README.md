@@ -105,3 +105,5 @@ Python, pandas, NumPy, scikit-learn, Streamlit, Plotly, matplotlib, API REST (BC
 
 **Alvaro Fabricio Nuñez Rivas**
 Ingeniería de Sistemas — Universidad Nacional de Ingeniería (UNI), Lima, Perú
+
+**[Ver dashboard en vivo →](https://bcrp-inflacion-f8yybfmidct2kwsw62gc7v.streamlit.app)**
